@@ -1,0 +1,25 @@
+/* Common */
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* Debug */ 
+.debug nav{
+    background-color: turquoise;
+}
+/* Navbar */
+.navbar {
+    position: fixed;
+    right: 0;
+    top:2rem;
+    padding: 1rem;  
+}
+a {
+    background: white;
+    border-radius: 100%;
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    margin: 1rem;
+    text-decoration: none;
+}
